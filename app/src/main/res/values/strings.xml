@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor Test Activity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sensor_color">Shake to get a toast and to switch color</string>
+</resources>
